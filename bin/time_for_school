@@ -25,8 +25,12 @@ jim.last_name = "Harbaugh"
 
 jim.learn
 
-jim = Student.new
-jim.first_name = "Jim"
-jim.lat_name = "Belushi"
+jane = Student.new
+jane.first_name = "Jane"
+jane.last_name = "Doe"
 
-jim.learn
+jane.learn
+
+steve.knowledge
+jim.knowledge
+jane.knowledge
