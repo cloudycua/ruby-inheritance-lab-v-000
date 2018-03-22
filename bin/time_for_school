@@ -27,7 +27,7 @@ jane = Student.new
 jane.first_name = "Jane"
 jane.last_name = "Doe"
 
-jane.learn
+jane.learn(some_knowledge)
 
 puts steve.knowledge
 puts jim.knowledge
