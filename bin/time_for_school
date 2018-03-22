@@ -30,5 +30,4 @@ jane.last_name = "Doe"
 jane.learn(some_knowledge)
 
 puts steve.knowledge
-puts jim.knowledge
 puts jane.knowledge
