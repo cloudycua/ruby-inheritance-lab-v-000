@@ -23,14 +23,12 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Harbaugh"
 
-jim.learn
-
 jane = Student.new
 jane.first_name = "Jane"
 jane.last_name = "Doe"
 
 jane.learn
 
-steve.knowledge
-jim.knowledge
-jane.knowledge
+puts steve.knowledge
+puts jim.knowledge
+puts jane.knowledge
