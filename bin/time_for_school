@@ -25,4 +25,8 @@ jim.last_name = "Harbaugh"
 
 jim.learn
 
+jim = Student.new
+jim.first_name = "Jim"
+jim.lat_name = "Belushi"
 
+jim.learn
